@@ -1,0 +1,35 @@
+path: /path/to/bdd
+train: train/images
+val: val/images
+
+names:
+  0: pedestrian
+  1: rider
+  2: car
+  3: truck
+  4: bus
+  5: train
+  6: motorcycle
+  7: bicycle
+  8: traffic light
+  9: traffic sign
+  10: kookaburra
+  11: goldfinch
+  12: platypus
+  13: gibbon
+  14: blue jay
+  15: tapir
+  16: porcupine
+  17: armadillo
+  18: peacock
+  19: pelican
+  20: woodpecker
+  21: inflatable kayak
+  22: mongoose
+  23: spider monkey
+  24: kitesurfer
+  25: wolverine
+  26: wax figure
+  27: woodchuck
+  28: walrus
+  29: chimpanzee

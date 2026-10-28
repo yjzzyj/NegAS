@@ -1,0 +1,45 @@
+path: /path/to/voc
+train: train/images
+val: val/images
+
+names:
+  0: person
+  1: bird
+  2: cat
+  3: cow
+  4: dog
+  5: horse
+  6: sheep
+  7: airplane
+  8: bicycle
+  9: boat
+  10: bus
+  11: car
+  12: motorcycle
+  13: train
+  14: bottle
+  15: chair
+  16: dining table
+  17: potted plant
+  18: couch
+  19: tv
+  20: clouded leopard
+  21: caracal
+  22: serval
+  23: markhor
+  24: margay
+  25: dhole
+  26: maned wolf
+  27: snow leopard
+  28: kudu
+  29: springbok
+  30: ocelot
+  31: chamois
+  32: tanuki
+  33: przewalski's horse
+  34: mouflon
+  35: fennec
+  36: hyena
+  37: raccoon dog
+  38: fishing cat
+  39: ibex
